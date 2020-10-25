@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+#S{
+	background-color: #F0F0F5;
+	margin-left: 70px;
+	margin-right: 800px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size:18px;
+	text-align:left;
+	letter-spacing:0px;
+	word-spacing:1px;
+	line-height:55px;
+	padding-right:30px;
+	padding-bottom:20px;
+	padding-left:30px;
+	padding-top:20px;
+	float:left;
+	color:#FF6600;
+}
+a:link {color:#FF6600;}  
+a:visited {color:#FF6600;} 
+a:hover {color:#0000CC;}   
+a:active {color:#FF6600;}  
+a:link {text-decoration:none;}
