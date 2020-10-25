@@ -3,7 +3,7 @@
 # cube101
 A bengali website to show the steps of solving a 3x3 Rubics Cube developed with `Adobe Dreamweaver` application.
 
-Developed at April, 2014.
+Developed in April, 2014.
 
 It is online at: https://cube101.bitbucket.io
 
